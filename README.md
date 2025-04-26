@@ -1,5 +1,8 @@
 # Limbus Company Visual Novel Template
-Based on an April Fool's Day project, now you can create your own Limbus Company stories! 
+Based on my April Fool's Day project, now you can create your own Limbus Company stories! 
+
+![Demo footage of the included April Fool's Day story](documentation\conjectures.gif)
+
 ## Features
 - Replicates the Limbus Company Story UI (mostly!)
 - Basic hookups to show character titles and location names
